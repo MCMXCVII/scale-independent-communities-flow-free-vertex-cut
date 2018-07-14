@@ -1,5 +1,5 @@
 # scale-independent-communities-flow-free-vertex-cut
-Code from paper
+Code from
 "A definition of scale-independent communities &amp; a flow-free vertex cut algorithm"
 by Alexander Braekevelt
 
